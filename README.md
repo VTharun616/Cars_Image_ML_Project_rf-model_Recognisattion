@@ -41,7 +41,8 @@ Random Forest Classifier
 
 ## 6.🏆 Final Model Selection
 ✔ Random Forest Classifier
-Selected because it achieved:
+Selected 
+because it achieved:
 Highest Accuracy
 Better Precision and Recall
 Best F1-score
