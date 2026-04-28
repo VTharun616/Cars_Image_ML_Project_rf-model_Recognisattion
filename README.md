@@ -13,21 +13,17 @@ Model evaluation using accuracy, precision, recall, F1-score, and AUC-ROC
 Final model selection based on best performance
 
 ## 2. Technologies Used
+
 -Python
-
 -NumPy
-
 -Pandas
-
 -OpenCV
-
 -Matplotlib
-
 -Scikit-learn
-
 -imutils
 
 ## 3. Image Preprocessing
+
 Loaded images using OpenCV
 Resized images to 128 × 128
 Converted images to NumPy arrays
