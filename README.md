@@ -14,11 +14,17 @@ Final model selection based on best performance
 
 ## 2. Technologies Used
 -Python
+
 -NumPy
+
 -Pandas
+
 -OpenCV
+
 -Matplotlib
+
 -Scikit-learn
+
 -imutils
 
 ## 3. Image Preprocessing
