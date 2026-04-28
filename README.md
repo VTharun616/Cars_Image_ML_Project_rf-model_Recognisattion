@@ -2,6 +2,12 @@
 This project classifies car images into two categories: Audi and Toyota using Machine Learning and image processing techniques.
 The model is trained on flattened image pixels and evaluates multiple classification algorithms to find the best-performing model.
 
+Streamlit:
+https://rfimagepridiction-fyefcktqp49uavochfikrt.streamlit.app/
+
+HuggingFAce:
+https://huggingface.co/spaces/VTharun616/rf_image_pridiction
+
 ## 1. Project Overview
 In this project, I performed:
 Image data loading from dataset folders
