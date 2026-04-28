@@ -20,13 +20,13 @@ Final model selection based on best performance
 
 ## 2. Technologies Used
 
--Python
--NumPy
--Pandas
--OpenCV
--Matplotlib
--Scikit-learn
--imutils
+- Python
+- NumPy
+- Pandas
+- OpenCV
+- Matplotlib
+- Scikit-learn
+- imutils
 
 ## 3. Image Preprocessing
 
@@ -49,8 +49,7 @@ Random Forest Classifier
 
 ## 6.🏆 Final Model Selection
 ✔ Random Forest Classifier
-Selected 
-because it achieved:
+Selected because it achieved:
 Highest Accuracy
 Better Precision and Recall
 Best F1-score
@@ -94,8 +93,8 @@ Deploy using Streamlit or Flask
 **Tharun Kumar Vadde**
 
 Aspiring AI/ML Engineer focused on:
--Machine Learning
--Deep Learning
--Computer Vision
--NLP
--Generative AI projects
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- Generative AI projects
